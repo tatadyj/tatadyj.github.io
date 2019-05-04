@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yajun Ding, Data Scientist, Ph.D."
+title                    : "CV"
 title_separator          : "-"
 name                     : "Yajun Ding"
 description              : "Personal Homepage | Yajun Ding"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Yajun Ding"
-  avatar           : "/assets/img/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist, Ph.D."
   location         : "Houston, TX"
   email            : "tatadingyajun@gmail.com"
