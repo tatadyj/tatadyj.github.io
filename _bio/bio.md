@@ -12,31 +12,25 @@ title: ""
 
 ## Current Position 
 
-Chemical Engineer \\
-[Chemical Informatics Research Group](https://www.nist.gov/mml/csd/chemical-informatics-research-group) \\
-Chemical Sciences Division \\
-Material Measurement Laboratory \\
-National Institute of Standards and Technology \\
-100 Bureau Drive STOP 8320 \\
-Gaithersburg, MD 20899-8320 USA \\
+Data Scientist \\
+[SMS ASSIST](https://www.smsassist.com) \\
+Houston, TX \\
 \\
-E: [nathan.mahynski@nist.gov](mailto: nathan.mahynski@nist.gov) \\
-T: (301) 975-6836
+E: [yding@smsassist.com](mailto: yding@smsassist.com) \\
+T: (225) 456-6991
 
-[CV](https://drive.google.com/file/d/0B6sFx4ruP0--R2lHcWZmWWV5d3c/view){: .btn .btn--success}
+[CV](view){: .btn .btn--success}
 
 ## Education
 
-* Ph.D., Chemical Engineering, Princeton University, 2015
-  Certificate in Computational and Information Science
-* M.A., Chemical Engineering, Princeton University, 2012
-* B.S., Chemical Engineering, Purdue University, 2010 (Magna Cum Laude)
+* Ph.D., Chemical Engineering, Lehigh University, 2015
+* M.S., Chemical and Biomolecular Engineering, University of Pennsylvania, 2010
+* B.S., Chemical and Biological Engineering, China Agricultural University, 2006
 
 ## Recent Awards
 
-* Election to Sigma Xi, 2017
-* Univ. of Washington Distinguished Young Scholar in Chemical Engineering, 2016
-* Christopher J. Wormald Prize in Thermodynamics, 2015
+* Gotshall Fellowship, Lehigh University, 2012
+* Baldwin Fellowship, Lehigh University, 2010
 
 ---
 
