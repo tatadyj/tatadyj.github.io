@@ -112,18 +112,15 @@ author:
   location         : "Houston, TX"
   email            : "tatadingyajun@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "tatadingyajun@gmail.com"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-research-gate"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tatadyj"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yajun-d-b0647914"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Yajun_Ding"
 
 # Site Footer
 footer:
