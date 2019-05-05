@@ -26,8 +26,8 @@ With the advent of the [fourth paradigm of science](https://www.immagic.com/eLib
 
 Support from the agencies listed on the homepage is gratefully acknowledged. These include:
 
-* [National Science Foundation (NSF](https://www.nsf.gov), Grant No. CBET-1120399 and TG-MCB120014
-* [US Department of Energy (DOE)](https://www.energy.gov), Grant No. DE-SC0013979 and DE-AC02-05CH11231
+* [National Science Foundation (NSF)](https://www.nsf.gov), Grant No. CBET-1120399, TG-MCB120014
+* [US Department of Energy (DOE)](https://www.energy.gov), Grant No. DE-SC0013979, DE-AC02-05CH11231
 * [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org): Grant No. OPP1005974
 * [Extreme Science and Engineering Discovery Environment (XSEDE)](https://www.xsede.org)
 * [American Chemical Society (ACS)](http://www.acs.org)
