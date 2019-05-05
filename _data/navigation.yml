@@ -18,7 +18,7 @@ main:
   #   url: /sitemap/
 
 research:
-  - title: Current Projects
+  - title: Previous Projects
     children:
       - title: "Multi-flavored Colloidal Assembly in 3D"
         url:  "https://doi.org/10.1039/C8SM00989A"
