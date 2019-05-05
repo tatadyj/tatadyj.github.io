@@ -20,5 +20,5 @@ main:
 research:
   - title: Current Projects
     children:
-      - title: "Agent-directed Colloidal Crystal Assembly"
-        url: /_research/sdacolloids/
+      - title: "Colloidal Crystal Assembly in 3D"
+        url:  "https://doi.org/10.1039/C8SM00989A"
