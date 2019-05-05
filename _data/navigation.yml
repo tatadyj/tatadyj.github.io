@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: https://tatadyj.github.io/
+  - title: "Research"
+    url: /_research/research/
+  - title: "Bio"
+    url: /_bio/bio/
+  - title: "Press"
+    url: /_posts/press/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +16,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+research:
+  - title: Current Projects
+    children:
+      - title: "Agent-directed Colloidal Crystal Assembly"
+        url: /_research/sdacolloids/
