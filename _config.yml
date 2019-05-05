@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CV"
+title                    : ""
 title_separator          : "-"
 name                     : "Yajun Ding"
 description              : "Personal Homepage | Yajun Ding"
@@ -111,6 +111,7 @@ author:
   bio              : "Data Scientist, Ph.D."
   location         : "Houston, TX"
   email            : "tatadingyajun@gmail.com"
+  researchgate     : "yajun-d-b0647914"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
