@@ -9,20 +9,12 @@ excerpt: ""
 title: "Research"
 header:
   image_description: ""
-  overlay_image: /assets/img/nist_cover.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "www.nist.gov"
-  cta_label: "NIST Profile"
-  cta_url: "https://www.nist.gov/people/nathan-mahynski"
+  overlay_image: /assets/img/research_cover.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  caption: ""
 ---
 
 {% include toc icon="gears" title="Table of Contents" %}
-
-# Aims
-
-My name is Nathan Mahynski. I am a chemical engineer in the [chemical informatics research group](https://www.nist.gov/mml/csd/chemical-informatics-research-group) at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov).  As technology grows ever more complex in the modern era, so-called "soft matter" systems play an increasingly important role at the heart of many technologies.  My background is in computational thermodynamics and my research at NIST focuses on three principal areas, each broadly aimed at addressing certain challenges which arise from attempts at understanding, modeling, and predicting the behavior of soft matter systems. 
- 
-<p style="text-align: center;">"Numquam ponenda est pluralitas sine necessitate." - William of Ockham </p>
 
 ## Colloidal Self-Assembly
 Globally ordered colloidal crystal lattices have broad utility in a wide range of optical and catalytic devices, for example, as photonic band gap materials. However, the self-assembly of stereospecific structures is often confounded by polymorphism. Small free-energy differences often characterize ensembles of different structures, making it difficult to produce a single morphology at will. Current techniques to handle this problem adopt one of two approaches: that of the "top-down" or "bottom-up" methodology, whereby structures are engineered starting from the largest or smallest relevant length scales, respectively. However, recently my work has focused on developing a new methodology for controlling **[colloidal crystal assembly](/_research/sdacolloids/)** and polymorphism using external structure-directing agents.  To this end, special attention has been paid to designing computational algorithms for predicting crystal polymorphism and the relative stability of **[multicomponent colloidal mixtures](/_research/multicolloids)**.
