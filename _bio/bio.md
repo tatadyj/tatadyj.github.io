@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Yajun Ding"
+title: ""
 ---
 
 # Background
