@@ -13,9 +13,10 @@ My name is Yajun Ding. I am a data scientist at [SMS ASSIST](https://www.smsassi
 3. Mathematical and computational modeling of infecious diseases and epidemiology of HIV. \\
 More information about active research projects and objectives is available [here](https://tatadyj.github.io/_research/research/).
 
-## Curriculum Vitae
+## Curriculum Vitae and Resume 
 
 [CV](view){: .btn .btn--success}
+[Resume](view){: .btn .btn--success}
 
 ## Education
 
