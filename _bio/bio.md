@@ -1,23 +1,19 @@
 ---
 layout: single
 author_profile: true
-title: ""
+title: "Yajun Ding"
 ---
-
-{% include toc icon="gears" title="Table of Contents" %}
 
 # Background
 
-<p style="text-align: center;">"Nature is showing us only the tail of the lion..." - Albert Einstein </p>
+My name is Yajun Ding. I am a data scientist at [SMS ASSIST](https://www.smsassist.com). My background is in computational thermodynamics and my research focuses on three principal areas:
 
-## Current Position 
+1. using statistical mechanical methods to develop efficient computational methodologies for computing thermodynamic properties of fluids.
+2. understanding and controlling colloidal crystal self-assembly and polymorphism.
+3. mathematical and computational modeling of infecious diseases and epidemiology of HIV.
+More information about active research projects and objectives is available here. For research openings and opportunities, please email me at [tatadingyajun@gmail.com](mailto: tatadingyajun@gmail.com).
 
-Data Scientist \\
-[SMS ASSIST](https://www.smsassist.com) \\
-Houston, TX \\
-\\
-E: [yding@smsassist.com](mailto: yding@smsassist.com) \\
-T: (225) 456-6991
+## Curriculum Vitae
 
 [CV](view){: .btn .btn--success}
 
