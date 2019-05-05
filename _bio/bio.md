@@ -8,10 +8,10 @@ title: ""
 
 My name is Yajun Ding. I am a data scientist at [SMS ASSIST](https://www.smsassist.com). My background is in computational thermodynamics and my research focuses on three principal areas:
 
-1. using statistical mechanical methods to develop efficient computational methodologies for computing thermodynamic properties of fluids.
-2. understanding and controlling colloidal crystal self-assembly and polymorphism.
-3. mathematical and computational modeling of infecious diseases and epidemiology of HIV.
-More information about active research projects and objectives is available here. For research openings and opportunities, please email me at [tatadingyajun@gmail.com](mailto: tatadingyajun@gmail.com).
+1. Using statistical mechanical methods to develop efficient computational methodologies for computing thermodynamic properties of fluids.
+2. Understanding and controlling colloidal crystal self-assembly and polymorphism.
+3. Mathematical and computational modeling of infecious diseases and epidemiology of HIV. \\
+More information about active research projects and objectives is available [here](https://tatadyj.github.io/_research/research/).
 
 ## Curriculum Vitae
 
