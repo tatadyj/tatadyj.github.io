@@ -15,7 +15,7 @@ More information about active research projects and objectives is available [her
 
 ## Curriculum Vitae and Resume 
 
-[CV](view){: .btn .btn--success}
+[CV](https://drive.google.com/file/d/1q-P4iBNW7E5S2st4kl_GNcdS-eU53mzY/view?usp=sharing){: .btn .btn--success}
 [Resume](view){: .btn .btn--success}
 
 ## Education
